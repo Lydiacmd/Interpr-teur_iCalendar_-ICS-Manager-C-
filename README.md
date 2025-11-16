@@ -1,4 +1,4 @@
-# Interpr-teur_iCalendar_-ICS-Manager-C-
+# Interprteur iCalendar
 Interpréteur .ics en C avec gestion d'événements (ADD/MODIFY/REMOVE/LIST/SEARCH/CLEAR) et menu interactif Bash.
 
 
